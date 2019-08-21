@@ -1,2 +1,1 @@
-# ann-back-propagation
-Implementation of a simple artificial neural network using the back propagation algorithm
+Implementation of a simple Artificial Neural Network using the Back Propagation Algorithm
